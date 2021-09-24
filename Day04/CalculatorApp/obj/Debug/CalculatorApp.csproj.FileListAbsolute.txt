@@ -1,0 +1,7 @@
+C:\Assignments\Day04\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Assignments\Day04\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Assignments\Day04\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Assignments\Day04\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Assignments\Day04\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Assignments\Day04\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Assignments\Day04\CalculatorApp\obj\Debug\CalculatorApp.pdb
