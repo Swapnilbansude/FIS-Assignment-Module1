@@ -1,0 +1,5 @@
+metadata=res://*/FISModel.csdl|res://*/FISModel.ssdl|res://*/FISModel.msl;provider=System.Data.SqlClient;provider connection string="data source=WINDOWS-UNR7VLH\SQLEXPRESS;initial catalog=FISAssignments;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+
+FISModel
+Entity - FISAssignmentsEntities(Name for DBContext)
+Model Namespace - FISAssignmentsModel
