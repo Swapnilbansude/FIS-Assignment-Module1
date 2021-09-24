@@ -1,0 +1,7 @@
+C:\Assignments\Day03\RTOApplication\bin\Debug\RTOApplication.exe.config
+C:\Assignments\Day03\RTOApplication\bin\Debug\RTOApplication.exe
+C:\Assignments\Day03\RTOApplication\bin\Debug\RTOApplication.pdb
+C:\Assignments\Day03\RTOApplication\obj\Debug\RTOApplication.csproj.AssemblyReference.cache
+C:\Assignments\Day03\RTOApplication\obj\Debug\RTOApplication.csproj.CoreCompileInputs.cache
+C:\Assignments\Day03\RTOApplication\obj\Debug\RTOApplication.exe
+C:\Assignments\Day03\RTOApplication\obj\Debug\RTOApplication.pdb

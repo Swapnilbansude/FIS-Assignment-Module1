@@ -1,0 +1,7 @@
+C:\Assignments\Day03\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Assignments\Day03\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Assignments\Day03\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Assignments\Day03\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Assignments\Day03\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Assignments\Day03\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Assignments\Day03\EmployeeManagement\obj\Debug\EmployeeManagement.pdb

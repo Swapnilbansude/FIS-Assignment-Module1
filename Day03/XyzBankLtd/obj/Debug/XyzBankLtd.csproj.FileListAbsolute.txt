@@ -1,0 +1,7 @@
+C:\Assignments\Day03\XyzBankLtd\bin\Debug\XyzBankLtd.exe.config
+C:\Assignments\Day03\XyzBankLtd\bin\Debug\XyzBankLtd.exe
+C:\Assignments\Day03\XyzBankLtd\bin\Debug\XyzBankLtd.pdb
+C:\Assignments\Day03\XyzBankLtd\obj\Debug\XyzBankLtd.csproj.AssemblyReference.cache
+C:\Assignments\Day03\XyzBankLtd\obj\Debug\XyzBankLtd.csproj.CoreCompileInputs.cache
+C:\Assignments\Day03\XyzBankLtd\obj\Debug\XyzBankLtd.exe
+C:\Assignments\Day03\XyzBankLtd\obj\Debug\XyzBankLtd.pdb
