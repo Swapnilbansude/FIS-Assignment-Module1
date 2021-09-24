@@ -1,0 +1,7 @@
+C:\Assignments\Day02\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Assignments\Day02\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Assignments\Day02\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Assignments\Day02\RestaurantManager\obj\Debug\RestaurantManager.csproj.AssemblyReference.cache
+C:\Assignments\Day02\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Assignments\Day02\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Assignments\Day02\RestaurantManager\obj\Debug\RestaurantManager.pdb

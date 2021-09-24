@@ -1,0 +1,7 @@
+C:\Assignments\Day02\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Assignments\Day02\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Assignments\Day02\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Assignments\Day02\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.AssemblyReference.cache
+C:\Assignments\Day02\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Assignments\Day02\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Assignments\Day02\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb

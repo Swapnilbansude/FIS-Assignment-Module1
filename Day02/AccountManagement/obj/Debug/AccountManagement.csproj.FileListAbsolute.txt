@@ -1,0 +1,7 @@
+C:\Assignments\Day02\AccountManagement\bin\Debug\AccountManagement.exe.config
+C:\Assignments\Day02\AccountManagement\bin\Debug\AccountManagement.exe
+C:\Assignments\Day02\AccountManagement\bin\Debug\AccountManagement.pdb
+C:\Assignments\Day02\AccountManagement\obj\Debug\AccountManagement.csproj.AssemblyReference.cache
+C:\Assignments\Day02\AccountManagement\obj\Debug\AccountManagement.csproj.CoreCompileInputs.cache
+C:\Assignments\Day02\AccountManagement\obj\Debug\AccountManagement.exe
+C:\Assignments\Day02\AccountManagement\obj\Debug\AccountManagement.pdb
